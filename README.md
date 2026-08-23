@@ -47,7 +47,7 @@ WEBSITE KELOMPOK 4 DASAR DASAR TJKT
     <div class="container">
         <header>
             <h1>🔌 NC NETWORK</h1>
-            <p class="tagline">Penyedia Jasa Instalasi Wi-Fi & CCTV Terpercaya di Yogyakarta — Pengerjaan Rapi, Bersih, Bergaransi, dan Harga Terjangkau</p>
+            <p class="tagline">Penyedia Jasa Instalasi Wi-Fi & CCTV Terpercaya di Tegal — Pengerjaan Rapi, Bersih, Bergaransi, dan Harga Terjangkau</p>
         </header>
 
         <!-- BANNER UTAMA: Ganti dengan gambar banner kamu -->
