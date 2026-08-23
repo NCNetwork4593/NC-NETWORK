@@ -4,7 +4,7 @@ WEBSITE KELOMPOK 4 DASAR DASAR TJKT
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NC NETWORK - Solusi Wifi & CCTV Terpercaya Yogyakarta</title>
+    <title>NC NETWORK - Solusi Wifi & CCTV Terpercaya Tegal</title>
     <style>
         * {margin:0; padding:0; box-sizing:border-box; font-family:'Segoe UI', Roboto, Arial, sans-serif;}
         body {background:linear-gradient(135deg,#0f172a,#1e293b); color:#f8fafc; min-height:100vh; padding:20px 15px;}
@@ -131,7 +131,7 @@ WEBSITE KELOMPOK 4 DASAR DASAR TJKT
                 <div class="item">✅ <strong>Teknisi Berpengalaman</strong> — Ditangani langsung oleh tenaga ahli yang paham seluk-beluk instalasi jaringan dan keamanan</div>
                 <div class="item">✅ <strong>Siap Survei Lokasi</strong> — Bisa kami kunjungi terlebih dahulu untuk memberikan penawaran yang pas dengan kondisi tempat Anda</div>
                 <div class="item">✅ <strong>Layanan Cepat Tanggap</strong> — Respon pesan cepat dan waktu pengerjaan yang disesuaikan dengan jadwal Anda</div>
-                <div class="item">✅ <strong>Siap Seluruh Wilayah</strong> — Melayani pemasangan di seluruh wilayah Yogyakarta dan daerah sekitarnya</div>
+                <div class="item">✅ <strong>Siap Seluruh Wilayah</strong> — Melayani pemasangan di seluruh wilayah Tegal dan daerah sekitarnya</div>
             </div>
         </div>
 
