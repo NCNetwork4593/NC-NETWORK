@@ -59,68 +59,184 @@ WEBSITE KELOMPOK 4 DASAR DASAR TJKT
             <br>
             <p><strong>NC NETWORK</strong> hadir sebagai solusi terbaik untuk kebutuhan jaringan dan keamanan Anda. Kami adalah tim teknisi berpengalaman yang berdedikasi memberikan pelayanan profesional mulai dari survei lokasi, pemasangan yang rapi dan bersih, hingga pelayanan purna jual yang siap membantu kapan saja. Kami berkomitmen memberikan hasil kerja maksimal dengan harga yang jujur dan terjangkau tanpa biaya tersembunyi.</p>
         </div>
+        <style>
+.kartu {background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.12); border-radius:18px; padding:20px; text-align:center; transition:all 0.35s ease;}
+.kartu:hover {transform:translateY(-8px); border-color:#38bdf8; background:rgba(56,189,248,0.08); box-shadow:0 8px 25px rgba(56,189,248,0.25);}
+.kartu img {width:100%; height:210px; object-fit:contain; background:#ffffff; border-radius:14px; margin-bottom:18px; padding:12px;}
+.kartu h4 {color:#38bdf8; font-size:1.3em; margin-bottom:8px;}
+.harga {font-size:1.4em; font-weight:700; color:#fbbf24; margin:8px 0 12px;}
+.spec {background:rgba(255,255,255,0.04); border-radius:10px; padding:12px; margin:12px 0; text-align:left; font-size:0.92em; line-height:1.6;}
+.spec strong {color:#93c5fd;}
+.unggul {text-align:left; font-size:0.9em; margin:10px 0; line-height:1.5;}
+.tombol-pesan {display:block; background:#25d366; color:white; padding:12px; border-radius:10px; text-decoration:none; font-weight:700; margin-top:15px; transition:background 0.3s;}
+.tombol-pesan:hover {background:#128c7e;}
+</style>
 
-        <!-- BAGIAN PAKET WIFI -->
-        <div class="section wifi-section">
-            <h2>📶 PILIHAN PAKET INSTALASI WIFI</h2>
-            <div class="grid">
-                <div class="kartu">
-                    <img src="wifi1.jpg" alt="Paket Wifi AX5400">
-                    <h4>Paket Keluarga AX5400</h4>
-                    <p>Koneksi cepat dan stabil hingga kecepatan 5400 Mbps, dirancang untuk menampung banyak perangkat sekaligus tanpa lemot.</p>
-                    <p class="keterangan">Cocok untuk: Rumah tangga besar, streaming film 4K, belajar online, dan bermain game santai.</p>
-                </div>
-                <div class="kartu">
-                    <img src="wifi2.jpg" alt="Paket Wifi AX11000">
-                    <h4>Paket Pro Gaming AX11000</h4>
-                    <p>Jaringan super ngebut dengan latensi sangat minim dan teknologi canggih yang membagi jalur agar tetap lancar saat padat.</p>
-                    <p class="keterangan">Cocok untuk: Gamer profesional, pekerjaan berat, kantor kecil, dan penggunaan intensif sehari-hari.</p>
-                </div>
-                <div class="kartu">
-                    <img src="wifi3.jpg" alt="Paket Wifi AC1200">
-                    <h4>Paket Keluarga AC1200</h4>
-                    <p>Pilihan ekonomis namun tetap handal dengan kecepatan stabil, memberikan sinyal kuat untuk kebutuhan dasar keluarga.</p>
-                    <p class="keterangan">Cocok untuk: Rumah standar, browsing media sosial, menonton video, dan pekerjaan ringan.</p>
-                </div>
-                <div class="kartu">
-                    <img src="wifi4.jpg" alt="Paket Wifi Mesh">
-                    <h4>Paket Home Mesh AC1200</h4>
-                    <p>Sistem jaringan menyelimuti seluruh ruangan tanpa ada zona mati, sinyal otomatis berpindah ke perangkat terdekat.</p>
-                    <p class="keterangan">Cocok untuk: Rumah bertingkat, bangunan luas, dan tempat yang sering mengalami masalah sinyal lemah.</p>
-                </div>
+<!-- 📶 PAKET WIFI -->
+<div class="section wifi-section">
+    <h2>📶 PILIHAN PAKET INSTALASI WIFI</h2>
+    <div class="grid">
+
+        <!-- PAKET 1 -->
+        <div class="kartu">
+            <img src="wifi1.jpg" alt="Paket Wifi AC1200">
+            <h4>Paket Keluarga AC1200</h4>
+            <div class="harga">Mulai Rp 250.000</div>
+            <div class="spec">
+                <strong>Spesifikasi:</strong><br>
+                • Kecepatan: Hingga 1200 Mbps<br>
+                • Standar: Dual Band 2.4GHz & 5GHz<br>
+                • Jangkauan: 1 lantai rumah<br>
+                • Kapasitas: 5–8 perangkat
             </div>
+            <div class="unggul">
+                <strong>✅ Keunggulan:</strong><br>
+                Hemat biaya, sinyal stabil, mudah diatur, pemasangan rapi & uji coba langsung
+            </div>
+            <a href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20KELUARGA%20AC1200%20harga%20mulai%20Rp250.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
         </div>
 
-        <!-- BAGIAN PAKET CCTV -->
-        <div class="section cctv-section">
-            <h2>📷 PILIHAN PAKET INSTALASI CCTV</h2>
-            <div class="grid">
-                <div class="kartu">
-                    <img src="cctv1.jpg" alt="Paket CCTV ColorVu 2MP">
-                    <h4>Paket ColorVu 2MP</h4>
-                    <p>Teknologi canggih yang mampu merekam gambar berwarna jernih meski di lingkungan yang sangat gelap sekalipun.</p>
-                    <p class="keterangan">Kelebihan: Gambar tetap berwarna tajam di malam hari, mudah dipantau lewat HP kapan saja.</p>
-                </div>
-                <div class="kartu">
-                    <img src="cctv2.jpg" alt="Paket CCTV Dahua Full Color">
-                    <h4>Paket Dahua Full Color 2MP</h4>
-                    <p>Kualitas gambar tajam dan detail dengan teknologi pencitraan terbaru dari merek terpercaya dunia.</p>
-                    <p class="keterangan">Kelebihan: Tahan cuaca luar ruangan, rekaman jelas, dan perawatan yang mudah.</p>
-                </div>
-                <div class="kartu">
-                    <img src="cctv3.jpg" alt="Paket CCTV Hikvision ColorVu">
-                    <h4>Paket Hikvision ColorVu 2MP</h4>
-                    <p>Produk berkualitas internasional yang dikenal awet dan tahan lama dengan hasil rekaman yang sangat jernih.</p>
-                    <p class="keterangan">Kelebihan: Garansi resmi, dukungan teknis luas, dan performa stabil dalam jangka panjang.</p>
-                </div>
-                <div class="kartu">
-                    <img src="cctv4.jpg" alt="Paket CCTV Hikvision Full HD">
-                    <h4>Paket Hikvision Full HD 2MP</h4>
-                    <p>Pilihan tepat untuk pemantauan yang jelas dan terpercaya dengan resolusi tinggi yang mudah dibaca.</p>
-                    <p class="keterangan">Kelebihan: Harga bersahabat, kualitas terjamin, dan sangat cocok untuk pemantauan harian.</p>
-                </div>
+        <!-- PAKET 2 -->
+        <div class="kartu">
+            <img src="wifi2.jpg" alt="Paket Wifi AX5400">
+            <h4>Paket Keluarga AX5400</h4>
+            <div class="harga">Mulai Rp 450.000</div>
+            <div class="spec">
+                <strong>Spesifikasi:</strong><br>
+                • Kecepatan: Hingga 5400 Mbps<br>
+                • Teknologi: Wi-Fi 6 Dual Band<br>
+                • Jangkauan: Luas & tembus dinding<br>
+                • Kapasitas: 10–15 perangkat
             </div>
+            <div class="unggul">
+                <strong>✅ Keunggulan:</strong><br>
+                Sangat stabil, tahan gangguan, cocok streaming 4K & belajar online lancar
+            </div>
+            <a href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20KELUARGA%20AX5400%20harga%20mulai%20Rp450.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
         </div>
+
+        <!-- PAKET 3 -->
+        <div class="kartu">
+            <img src="wifi3.jpg" alt="Paket Wifi Mesh">
+            <h4>Paket Home Mesh AC1200</h4>
+            <div class="harga">Mulai Rp 650.000</div>
+            <div class="spec">
+                <strong>Spesifikasi:</strong><br>
+                • Sistem: Jaringan menyatu (2–3 unit)<br>
+                • Kecepatan: 1200 Mbps stabil<br>
+                • Jangkauan: Seluruh rumah bertingkat<br>
+                • Fitur: Beralih otomatis ke sinyal terkuat
+            </div>
+            <div class="unggul">
+                <strong>✅ Keunggulan:</strong><br>
+                Tanpa zona mati, sinyal menyelimuti seluruh ruangan, cocok rumah luas
+            </div>
+            <a href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20HOME%20MESH%20AC1200%20harga%20mulai%20Rp650.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
+        </div>
+
+        <!-- PAKET 4 -->
+        <div class="kartu">
+            <img src="wifi4.jpg" alt="Paket Wifi AX11000">
+            <h4>Paket Pro Gaming AX11000</h4>
+            <div class="harga">Mulai Rp 900.000</div>
+            <div class="spec">
+                <strong>Spesifikasi:</strong><br>
+                • Kecepatan: Hingga 11000 Mbps<br>
+                • Teknologi: Wi-Fi 6 Tri-Band<br>
+                • Fitur: Prioritas jalur khusus<br>
+                • Kualitas: Komponen premium
+            </div>
+            <div class="unggul">
+                <strong>✅ Keunggulan:</strong><br>
+                Latensi sangat rendah, anti lemot, cocok gamer & pekerjaan berat tanpa gangguan
+            </div>
+            <a href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20PRO%20GAMING%20AX11000%20harga%20mulai%20Rp900.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
+        </div>
+    </div>
+</div>
+
+<!-- 📷 PAKET CCTV -->
+<div class="section cctv-section">
+    <h2>📷 PILIHAN PAKET INSTALASI CCTV</h2>
+    <div class="grid">
+
+        <!-- PAKET 5 -->
+        <div class="kartu">
+            <img src="cctv1.jpg" alt="Paket Hikvision Full HD">
+            <h4>Paket Hikvision Full HD 2MP</h4>
+            <div class="harga">Mulai Rp 400.000 / Kamera</div>
+            <div class="spec">
+                <strong>Spesifikasi:</strong><br>
+                • Resolusi: 2 Megapixel (1080p)<br>
+                • Lensa: 3.6mm sudut pandang luas<br>
+                • Tahan air: Ya (IP66)<br>
+                • Pantauan: Lewat HP kapan saja
+            </div>
+            <div class="unggul">
+                <strong>✅ Keunggulan:</strong><br>
+                Gambar tajam siang hari, tahan cuaca, pemasangan kabel rapi & aman
+            </div>
+            <a href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20HIKVISION%20FULL%20HD%202MP%20harga%20mulai%20Rp400.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
+        </div>
+
+        <!-- PAKET 6 -->
+        <div class="kartu">
+            <img src="cctv2.jpg" alt="Paket Dahua Full Color">
+            <h4>Paket Dahua Full Color 2MP</h4>
+            <div class="harga">Mulai Rp 525.000 / Kamera</div>
+            <div class="spec">
+                <strong>Spesifikasi:</strong><br>
+                • Resolusi: 2 Megapixel<br>
+                • Teknologi: Gambar berwarna terus<br>
+                • Tahan cuaca: Panas & hujan<br>
+                • Aplikasi: Mudah & ringan
+            </div>
+            <div class="unggul">
+                <strong>✅ Keunggulan:</strong><br>
+                Detail jelas, awet tahan lama, garansi resmi produk, mudah dirawat
+            </div>
+            <a href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20DAHUA%20FULL%20COLOR%202MP%20harga%20mulai%20Rp525.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
+        </div>
+
+        <!-- PAKET 7 -->
+        <div class="kartu">
+            <img src="cctv3.jpg" alt="Paket ColorVu">
+            <h4>Paket ColorVu 2MP</h4>
+            <div class="harga">Mulai Rp 550.000 / Kamera</div>
+            <div class="spec">
+                <strong>Spesifikasi:</strong><br>
+                • Resolusi: 2 Megapixel<br>
+                • Fitur: Rekaman BERWARNA malam gelap<br>
+                • Lensa: Canggih penangkap cahaya<br>
+                • Penyimpanan: Dapat ditambah HDD
+            </div>
+            <div class="unggul">
+                <strong>✅ Keunggulan:</strong><br>
+                Tidak butuh lampu tambahan, wajah & benda terlihat jelas berwarna
+            </div>
+            <a href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20COLORVU%202MP%20harga%20mulai%20Rp550.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
+        </div>
+
+        <!-- PAKET 8 -->
+        <div class="kartu">
+            <img src="cctv4.jpg" alt="Paket Hikvision ColorVu">
+            <h4>Paket Hikvision ColorVu 2MP</h4>
+            <div class="harga">Mulai Rp 600.000 / Kamera</div>
+            <div class="spec">
+                <strong>Spesifikasi:</strong><br>
+                • Resolusi: 2 Megapixel<br>
+                • Merek: Hikvision Internasional<br>
+                • Ketahanan: Sangat awet & tahan cuaca<br>
+                • Dukungan: Layanan teknis luas
+            </div>
+            <div class="unggul">
+                <strong>✅ Keunggulan:</strong><br>
+                Kualitas terjamin, warna sangat akurat, minim gangguan, awet bertahun-tahun
+            </div>
+            <a href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20HIKVISION%20COLORVU%202MP%20harga%20mulai%20Rp600.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
+        </div>
+    </div>
+</div>
 
         <div class="unggul">
             <h2>💡 MENGAPA HARUS MEMILIH NC NETWORK?</h2>
