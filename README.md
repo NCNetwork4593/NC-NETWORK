@@ -60,6 +60,57 @@ WEBSITE KELOMPOK 4 DASAR DASAR TJKT
             <p><strong>NC NETWORK</strong> hadir sebagai solusi terbaik untuk kebutuhan jaringan dan keamanan Anda. Kami adalah tim teknisi berpengalaman yang berdedikasi memberikan pelayanan profesional mulai dari survei lokasi, pemasangan yang rapi dan bersih, hingga pelayanan purna jual yang siap membantu kapan saja. Kami berkomitmen memberikan hasil kerja maksimal dengan harga yang jujur dan terjangkau tanpa biaya tersembunyi.</p>
         </div>
         <style>
+/* === 🆕 BAGIAN POSTER === */
+         .poster-card {
+             background: linear-gradient(145deg, rgba(255,255,255,0.12), rgba(255,255,255,0.05));
+             border-radius: 20px;
+             padding: 25px;
+             margin-bottom: 25px;
+             border: 2px solid var(--emas);
+             box-shadow: 0 0 25px rgba(255,215,0,0.25);
+             text-align: center;
+             animation: fadeInUp 0.8s ease-out both;
+         }
+         .poster-wrapper {
+             position: relative;
+             border-radius: 16px;
+             overflow: hidden;
+             margin-bottom: 20px;
+             transition: transform 0.3s ease;
+         }
+         .poster-wrapper:hover {
+             transform: scale(1.02);
+         }
+         .poster-img {
+             width: 100%;
+             height: auto;
+             display: block;
+         }
+         .poster-desc {
+             margin-bottom: 15px;
+             color: var(--biru-terang);
+             font-size: 15px;
+             line-height: 1.6;
+         }
+         .poster-actions {
+             display: flex;
+             gap: 12px;
+             justify-content: center;
+             flex-wrap: wrap;
+         }
+         .btn-poster {
+             display: inline-flex;
+             align-items: center;
+             gap: 8px;
+             padding: 12px 24px;
+             border-radius: 12px;
+             font-size: 16px;
+             font-weight: bold;
+             text-decoration: none;
+             transition: all 0.3s ease;
+             border: none;
+             cursor: pointer;
+         }
 .kartu {background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.12); border-radius:18px; padding:20px; text-align:center; transition:all 0.35s ease;}
 .kartu:hover {transform:translateY(-8px); border-color:#38bdf8; background:rgba(56,189,248,0.08); box-shadow:0 8px 25px rgba(56,189,248,0.25);}
 .kartu img {width:100%; height:210px; object-fit:contain; background:#ffffff; border-radius:14px; margin-bottom:18px; padding:12px;}
