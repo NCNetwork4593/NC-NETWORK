@@ -60,6 +60,7 @@ WEBSITE KELOMPOK 4 DASAR DASAR TJKT
             <p><strong>NC NETWORK</strong> hadir sebagai solusi terbaik untuk kebutuhan jaringan dan keamanan Anda. Kami adalah tim teknisi berpengalaman yang berdedikasi memberikan pelayanan profesional mulai dari survei lokasi, pemasangan yang rapi dan bersih, hingga pelayanan purna jual yang siap membantu kapan saja. Kami berkomitmen memberikan hasil kerja maksimal dengan harga yang jujur dan terjangkau tanpa biaya tersembunyi.</p>
         </div>
         <style>
+        
     /* === 🆕 BAGIAN POSTER === */
          .poster-card {
              background: linear-gradient(145deg, rgba(255,255,255,0.12), rgba(255,255,255,0.05));
