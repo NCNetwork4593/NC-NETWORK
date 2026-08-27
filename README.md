@@ -84,17 +84,17 @@ WEBSITE KELOMPOK 4 DASAR DASAR TJKT
          </div>
      </div>
                 
-.kartu {background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.12); border-radius:18px; padding:20px; text-align:center; transition:all 0.35s ease;}
-.kartu:hover {transform:translateY(-8px); border-color:#38bdf8; background:rgba(56,189,248,0.08); box-shadow:0 8px 25px rgba(56,189,248,0.25);}
-.kartu img {width:100%; height:210px; object-fit:contain; background:#ffffff; border-radius:14px; margin-bottom:18px; padding:12px;}
-.kartu h4 {color:#38bdf8; font-size:1.3em; margin-bottom:8px;}
-.harga {font-size:1.4em; font-weight:700; color:#fbbf24; margin:8px 0 12px;}
-.spec {background:rgba(255,255,255,0.04); border-radius:10px; padding:12px; margin:12px 0; text-align:left; font-size:0.92em; line-height:1.6;}
-.spec strong {color:#93c5fd;}
-.unggul {text-align:left; font-size:0.9em; margin:10px 0; line-height:1.5;}
-.tombol-pesan {display:block; background:#25d366; color:white; padding:12px; border-radius:10px; text-decoration:none; font-weight:700; margin-top:15px; transition:background 0.3s;}
-.tombol-pesan:hover {background:#128c7e;}
-</style>
+     .kartu {background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.12); border-radius:18px; padding:20px; text-align:center; transition:all 0.35s ease;}
+     .kartu:hover {transform:translateY(-8px); border-color:#38bdf8; background:rgba(56,189,248,0.08); box-shadow:0 8px 25px rgba(56,189,248,0.25);}
+    .kartu img {width:100%; height:210px; object-fit:contain; background:#ffffff; border-radius:14px; margin-bottom:18px; padding:12px;}
+    .kartu h4 {color:#38bdf8; font-size:1.3em; margin-bottom:8px;}
+      .harga {font-size:1.4em; font-weight:700; color:#fbbf24; margin:8px 0 12px;}
+      .spec {background:rgba(255,255,255,0.04); border-radius:10px; padding:12px; margin:12px 0; text-align:left; font-size:0.92em; line-height:1.6;}
+      .spec strong {color:#93c5fd;}
+    .unggul {text-align:left; font-size:0.9em; margin:10px 0; line-height:1.5;}
+    .tombol-pesan {display:block; background:#25d366; color:white; padding:12px; border-radius:10px; text-decoration:none; font-weight:700; margin-top:15px; transition:background 0.3s;}
+     .tombol-pesan:hover {background:#128c7e;}
+    </style>
 
 <!-- 📶 PAKET WIFI -->
 <div class="section wifi-section">
