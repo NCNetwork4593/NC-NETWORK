@@ -105,7 +105,8 @@ WEBSITE KELOMPOK 4 DASAR DASAR TJKT
                 <strong>✅ Keunggulan:</strong><br>
                 Hemat biaya, sinyal stabil, mudah diatur, pemasangan rapi & uji coba langsung
             </div>
-            <a href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20KELUARGA%20AC1200%20harga%20mulai%20Rp250.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
+            <a 
+href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20KELUARGA%20AC1200%20harga%20mulai%20Rp250.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
         </div>
 
         <!-- PAKET 2 -->
@@ -124,7 +125,8 @@ WEBSITE KELOMPOK 4 DASAR DASAR TJKT
                 <strong>✅ Keunggulan:</strong><br>
                 Sangat stabil, tahan gangguan, cocok streaming 4K & belajar online lancar
             </div>
-            <a href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20KELUARGA%20AX5400%20harga%20mulai%20Rp450.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
+            <a
+href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20KELUARGA%20AX5400%20harga%20mulai%20Rp450.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
         </div>
 
         <!-- PAKET 3 -->
@@ -143,7 +145,8 @@ WEBSITE KELOMPOK 4 DASAR DASAR TJKT
                 <strong>✅ Keunggulan:</strong><br>
                 Tanpa zona mati, sinyal menyelimuti seluruh ruangan, cocok rumah luas
             </div>
-            <a href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20HOME%20MESH%20AC1200%20harga%20mulai%20Rp650.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
+            <a 
+href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20HOME%20MESH%20AC1200%20harga%20mulai%20Rp650.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
         </div>
 
         <!-- PAKET 4 -->
@@ -162,7 +165,8 @@ WEBSITE KELOMPOK 4 DASAR DASAR TJKT
                 <strong>✅ Keunggulan:</strong><br>
                 Latensi sangat rendah, anti lemot, cocok gamer & pekerjaan berat tanpa gangguan
             </div>
-            <a href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20PRO%20GAMING%20AX11000%20harga%20mulai%20Rp900.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
+            <a
+href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20PRO%20GAMING%20AX11000%20harga%20mulai%20Rp900.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
         </div>
     </div>
 </div>
@@ -188,7 +192,8 @@ WEBSITE KELOMPOK 4 DASAR DASAR TJKT
                 <strong>✅ Keunggulan:</strong><br>
                 Gambar tajam siang hari, tahan cuaca, pemasangan kabel rapi & aman
             </div>
-            <a href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20HIKVISION%20FULL%20HD%202MP%20harga%20mulai%20Rp400.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
+            <a
+href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20HIKVISION%20FULL%20HD%202MP%20harga%20mulai%20Rp400.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
         </div>
 
         <!-- PAKET 6 -->
@@ -207,7 +212,8 @@ WEBSITE KELOMPOK 4 DASAR DASAR TJKT
                 <strong>✅ Keunggulan:</strong><br>
                 Detail jelas, awet tahan lama, garansi resmi produk, mudah dirawat
             </div>
-            <a href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20DAHUA%20FULL%20COLOR%202MP%20harga%20mulai%20Rp525.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
+            <a 
+href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20DAHUA%20FULL%20COLOR%202MP%20harga%20mulai%20Rp525.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
         </div>
 
         <!-- PAKET 7 -->
@@ -226,7 +232,8 @@ WEBSITE KELOMPOK 4 DASAR DASAR TJKT
                 <strong>✅ Keunggulan:</strong><br>
                 Tidak butuh lampu tambahan, wajah & benda terlihat jelas berwarna
             </div>
-            <a href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20COLORVU%202MP%20harga%20mulai%20Rp550.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
+            <a 
+href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20COLORVU%202MP%20harga%20mulai%20Rp550.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
         </div>
 
         <!-- PAKET 8 -->
@@ -245,7 +252,8 @@ WEBSITE KELOMPOK 4 DASAR DASAR TJKT
                 <strong>✅ Keunggulan:</strong><br>
                 Kualitas terjamin, warna sangat akurat, minim gangguan, awet bertahun-tahun
             </div>
-            <a href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20HIKVISION%20COLORVU%202MP%20harga%20mulai%20Rp600.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
+            <a 
+href="https://wa.me/6283171084270?text=Halo%20NC%20NETWORK,%20saya%20ingin%20pesan%20PAKET%20HIKVISION%20COLORVU%202MP%20harga%20mulai%20Rp600.000" target="_blank" class="tombol-pesan">💬 Pilih & Pesan</a>
         </div>
     </div>
 </div>
